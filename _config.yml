@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abigail Bodner"
-  avatar           : "images/AbbiePhoto.JPG"
+  avatar           : "AbbiePhoto.JPG"
   bio              : "PhD Candidate working with Dr. Baylor Fox-Kemper on upper ocean mixing."
   location         : "Brown University"
   employer         :
