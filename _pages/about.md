@@ -13,6 +13,7 @@ My interests span a broad range of problems involving climate dynamics, geophysi
 Education
 -----
 **PhD (expected May 2021)** 
+
 Department of Earth, Environmental and Planetary Sciences
 Brown University
 
