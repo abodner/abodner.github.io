@@ -14,7 +14,7 @@ Education
 -----
 **PhD (expected May 2021)** 
 
-Department of Earth, Environmental and Planetary Sciences
+Department of Earth, Environmental and Planetary Sciences  
 Brown University
 
 Getting started
