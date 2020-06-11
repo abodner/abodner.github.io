@@ -26,9 +26,11 @@ Tel Aviv University
 
 
 **BSc (2014)**  
-Geophysics, Atmospheric and Planetary Sciences  
-Mathematics  
-Tel Aviv University
+Tel Aviv University  
+* Geophysics, Atmospheric and Planetary Sciences  
+*  Mathematics 
+
+
 
 
 
