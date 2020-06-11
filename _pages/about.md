@@ -13,20 +13,21 @@ My interests span a broad range of problems involving climate dynamics, geophysi
 Education
 -----
 **PhD (expected May 2021)**  
-Earth, Environmental and Planetary Sciences  
+ Earth, Environmental and Planetary Sciences  
 Brown University
 
 **ScM (2020)**  
-Division of Applied Mathematics   
+Applied Mathematics   
 Brown University
 
 **MSc (2019)**  
-Atmospheric Sciences  
+Geophysics, Atmospheric and Planetary Sciences  
 Tel Aviv University
 
 
 **BSc (2014)**  
-Earth Sciences and Mathematics (Double Major)  
+Geophysics, Atmospheric and Planetary Sciences  
+Mathematics  
 Tel Aviv University
 
 
