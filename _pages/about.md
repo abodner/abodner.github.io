@@ -26,6 +26,6 @@ Tel Aviv University
 
 
 **BSc (2014)**  
-Geophysics, Atmospheric and Planetary Sciences \& Mathematics (double major)  
+Geophysics, Atmospheric and Planetary Sciences & Mathematics (double major)  
 Tel Aviv University
 
