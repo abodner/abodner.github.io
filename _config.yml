@@ -1,4 +1,4 @@
-h# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abigail Bodner"
 title_separator          : "-"
 name                     : &name "Abigail Bodner "
-description              : #&description "Geophysical fluid dynamicist, oceanographer, climate scientist and turbulence enthusiast."
+description              : &description "Geophysical fluid dynamicist, oceanographer, climate scientist and turbulence enthusiast."
 url                      : https://abodner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abodner/abodner.github.io"
