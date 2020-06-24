@@ -18,3 +18,5 @@ Please note that this webpage is still under construction. Feel free to reach ou
 
 
 <br/><img src='/images/nerdy.png'>
+----
+<br/><img src='/images/bath.png'>
