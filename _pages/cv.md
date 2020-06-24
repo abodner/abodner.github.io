@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<br/><img src='/images/curious.jpg'>
+<br/><img src='/images/curious.jpg' width="400" height="400">
