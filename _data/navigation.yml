@@ -3,18 +3,18 @@ main:
   - title: "Research"
     url: /portfolio/
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
         
-  - title: "Affiliations"
-    url: /year-archive/
+#  - title: "Affiliations"
+#    url: /year-archive/
     
   - title: "CV & Contact"
     url: /cv/
