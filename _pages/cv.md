@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Reach out!
-----
-
+--
 
 
 My email address is abigail_bodner@brown.edu  
