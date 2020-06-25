@@ -18,7 +18,7 @@ My email address is abigail_bodner@brown.edu
 
 
 
-You can download my CV [here](/images/curious.jpg).
+You can download my CV [here](/files/AbigailBodner_CV.pdf).
 
 
 
