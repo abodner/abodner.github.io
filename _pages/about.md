@@ -19,8 +19,8 @@ I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to 
 
 
 
-
+<p align="center">
 <br/><img src='/images/nerdy1.png'>
-  
+</p>
   
 Please note that this webpage is still under construction. Feel free to reach out anytime!
