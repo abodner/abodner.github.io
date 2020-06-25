@@ -9,4 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Reach out!
+----
+My email address is abigail_bodner@brown.edu  
+--    
+You can download my CV here.
+--
+
+
+
 <br/><img src='/images/curious.jpg' width="400" height="400">
