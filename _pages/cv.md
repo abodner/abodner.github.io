@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Contact"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,16 @@ redirect_from:
 
 Reach out!
 ----
+
+
+
 My email address is abigail_bodner@brown.edu  
---    
-You can download my CV here.
---
+
+
+
+
+You can download my CV [here](/images/curious.jpg).
+
 
 
 
