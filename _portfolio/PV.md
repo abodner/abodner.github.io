@@ -1,6 +1,6 @@
 ---
 title: "PV"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/PV_surface.eps'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/PV_surface'>"
 collection: portfolio
 ---
 
