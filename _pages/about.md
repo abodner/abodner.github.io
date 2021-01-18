@@ -23,4 +23,4 @@ I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to 
 <br/><img src='/images/nerdy1.png'>
 </p>
   
-This webpage is still under construction. Check out my [CV](/files/AbigailBodner_CV.pdf) to see what else I have been up to.  
+This webpage is still under construction. Check out my [CV](/files/AbigailBodner_CV_Updated.pdf) to see what else I have been up to.  
