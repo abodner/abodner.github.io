@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently joined the Courant Institute of Mathematical Sciences at New York University as a Simons Society Junior Fellow in Dr. Laure Zannaʼs research group. I am working on a novel machine learning approach which combines theory, model simulations and observational measurements
-to study how small-scale coastal flow dynamics contribute to our understanding of global sea level rise.
+I recently joined Dr. Laure Zannaʼs research group at CAOS NYU as a Simons Society Junior Fellow. I am working on a novel machine learning approach which combines theory, model simulations and observational measurements to study how small-scale coastal flow dynamics contribute to our understanding of global sea level rise.
 
 I recieved my PhD from the [Department of Earth, Environmental and Planetary Sciences at Brown University](https://www.brown.edu/academics/earth-environmental-planetary-sciences/) working with [Dr. Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). My PhD was focused on improving the theory and model representation of ocean surface submesoscale flows, which play an important role in atmosphere-ocean interactions and simulating the climate system.
 
