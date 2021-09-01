@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently joined [Dr. Laure Zannaʼs](https://laurezanna.github.io/) research group at [CAOS](https://caos.cims.nyu.edu/dynamic/), as a [Simons Society of Fellows - Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/). I am working on a novel machine learning approach which combines theory, model simulations and observational measurements to study how small-scale coastal flow dynamics contribute to our understanding of global sea level rise.
+I recently joined [Dr. Laure Zannaʼs](https://laurezanna.github.io/) research group at [CAOS](https://caos.cims.nyu.edu/dynamic/) as a [Simons Society of Fellows - Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/). I am working on a novel machine learning approach which combines theory, model simulations and observational measurements to study how small-scale coastal flow dynamics contribute to our understanding of global sea level rise.
 
 I recieved my PhD from the [Department of Earth, Environmental and Planetary Sciences at Brown University](https://www.brown.edu/academics/earth-environmental-planetary-sciences/) working with [Dr. Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). My PhD was focused on improving the theory and model representation of ocean surface submesoscale flows, which play an important role in atmosphere-ocean interactions and simulating the climate system.
 
