@@ -13,7 +13,7 @@ Reach out!
 --
 
 
-My email address is abigail_bodner@brown.edu  
+My email address is abigail.bodner@nyu.edu  
 
 
 
