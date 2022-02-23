@@ -22,5 +22,3 @@ You can download my CV [here](/files/AbigailBodner_CV_Oct2021.pdf).
 
 
 
-
-<br/><img src='/images/curious.jpg' width="400" height="400">
