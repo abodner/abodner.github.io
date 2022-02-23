@@ -22,7 +22,7 @@ I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to 
 
 
 <p align="center">
-<br/><img src='/images/nerdy1.png'>
+<br/><img src='/images/micah_beach.jpeg'>
 </p>
   
 This webpage is still under construction. Check out my [CV](/files/AbigailBodner_CV_Oct2021.pdf) to see what else I have been up to.  
