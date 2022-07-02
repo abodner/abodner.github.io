@@ -1,6 +1,6 @@
 ---
 title: "Frontogenesis"
-excerpt: "A perturbation approach to understanding the effects of turbulence on frontogenesis <br/><img src='/images/Abstract_fronto.png'>"
+excerpt: "A perturbation approach to understanding the effects of turbulence on frontogenesis <br/><img src=1.5'/images/Abstract_fronto.png'>"
 collection: portfolio
 ---
 
