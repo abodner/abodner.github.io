@@ -12,4 +12,4 @@ collection: portfolio
 <br/><img src='/images/Abstract_fronto.png' width="200">
 
 
-[DOI](https://doi.org/10.1017/jfm.2019.804)    [PDF](https://doi.org/10.1017/jfm.2019.804) 
+          [DOI](https://doi.org/10.1017/jfm.2019.804)           [PDF](https://doi.org/10.1017/jfm.2019.804) 
