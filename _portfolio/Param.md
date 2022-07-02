@@ -1,8 +1,11 @@
 ---
-title: "Modifying the Mixed Layer Eddy Parameterization to Include Frontogenesis Arrest by Boundary Layer Turbulence"
-excerpt: "<br/><img src='/images/front_convect.gif'>"
+title: "Modifying the MLE Parameterization"
+excerpt: "Modifying the Mixed Layer Eddy Parameterization to Include Frontogenesis Arrest by Boundary Layer Turbulence <br/><img src='/images/front_convect.gif'>"
 collection: portfolio
 ---
+
+**Modifying the Mixed Layer Eddy Parameterization to Include Frontogenesis Arrest by Boundary Layer Turbulence**
+
 
 **Collaborators:** Abigail Bodner, Baylor Fox-Kemper, Leah Johnson, Luke P. Van Roekel, James C. McWilliams, Peter P. Sullivan, Paul S. Hall, and Jihai Dong.
 
