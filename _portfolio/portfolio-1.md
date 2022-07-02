@@ -1,6 +1,6 @@
 ---
 title: "Frontogenesis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Abstract_fronto.png'>"
+excerpt: "Short description of portfolio item number 1.5<br/><img src='/images/Abstract_fronto.png'>"
 collection: portfolio
 ---
 
