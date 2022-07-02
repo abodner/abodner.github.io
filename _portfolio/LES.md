@@ -1,6 +1,6 @@
 ---
 title: "Modifying the Mixed Layer Eddy Parameterization to Include Frontogenesis Arrest by Boundary Layer Turbulence"
-excerpt: "<br/><img src='/images/front_convect.gif' width="400">"
+excerpt: "<br/><img src='/images/front_convect.gif'>"
 collection: portfolio
 ---
 
