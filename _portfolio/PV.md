@@ -1,6 +1,6 @@
 ---
 title: "A Breakdown in Potential Vorticity Estimation Delineates the Submesoscale‐to‐Turbulence Boundary in Large Eddy Simulations."
-excerpt: "<br/><img src='/images/PV_surface.png'>"
+excerpt: "<br/><img src='/images/PV_surface.png' width="400">"
 collection: portfolio
 ---
 **Collaborators:** Abigail Bodner and Baylor Fox-Kemper.
