@@ -4,7 +4,7 @@ excerpt: "A perturbation approach to understanding the effects of turbulence on 
 collection: portfolio
 ---
 
-**A perturbation approach to understanding the effects of turbulence on frontogenesis **
+**A perturbation approach to understanding the effects of turbulence on frontogenesis**
 
 **Collaborators:** Abigail Bodner, Baylor Fox-Kemper, Luke P. Van Roekel, James C. McWilliams and Peter P. Sullivan
 
