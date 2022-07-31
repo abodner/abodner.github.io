@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently joined [Dr. Laure Zannaʼs](https://laurezanna.github.io/) research group at [CAOS, NYU](https://caos.cims.nyu.edu/dynamic/) as a [Simons Society Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/). I am working on a novel machine learning approach which combines model simulations and observational measurements to understand how different physical drivers contribute to coastal sea level. I am also an affiliate in [M²LInES](https://m2lines.github.io/) working to incorporate machine learning in subgrid parameterizations.
+I recently joined [Dr. Laure Zannaʼs](https://laurezanna.github.io/) research group at [CAOS, NYU](https://caos.cims.nyu.edu/dynamic/) as a [Simons Society Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/). I am working on a data-driven approach combining model simulations and observational measurements to understand how different physical drivers contribute to coastal sea level. I am also an affiliate in [M²LInES](https://m2lines.github.io/) working to incorporate machine learning in subgrid parameterizations.
 
 I recieved my PhD from [Brown University](https://www.brown.edu/academics/earth-environmental-planetary-sciences/) working with [Dr. Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). My PhD was focused on improving the theory and model representation of ocean surface submesoscale flows, which play an important role in atmosphere-ocean interactions and simulating the climate system.
 
