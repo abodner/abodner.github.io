@@ -18,7 +18,7 @@ My email address is abigail.bodner@nyu.edu
 
 
 
-You can download my CV [here](/files/AbigailBodner_CV_Oct2021.pdf).
+You can download my CV [here](/files/AbigailBodner_CV_July2022.pdf).
 
 
 
