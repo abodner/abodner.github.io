@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello! I am an Assistant Professor in the Massachusetts Institute of Technology, where I hold a shared position between the Departments of Earth, Atmospheric, and Planetary Sciences (EAPS), and Electrical Engineering and Computer Science (EECS). My research interests span climate, physical oceanography, geophysical fluid dynamics, and turbulence. I investigate turbulence in the upper ocean from O(100 km) to O(1 m) using a combination of theory, high-resolution numerical simulations, climate models, and most recently, machine learning. I have also a growing interest in coastal sea level drivers. 
 
-Come work with me-- I have an open position for a Postdoctoral Assistant! Apply at [https://hr.mit.edu/careers](https://hr.mit.edu/careers) (job ID #23637).
+**Come work with me-- I have an open position for a Postdoctoral Assistant! Apply at [https://hr.mit.edu/careers](https://hr.mit.edu/careers) (job ID #23637).**
 
 Previous to MIT, I was a [Simons Society Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/) working with [Dr. Laure Zanna](https://laurezanna.github.io/) at the [Courant Institute](https://caos.cims.nyu.edu/dynamic/) of Mathematical Sciences,  New York University. As an affiliate in the [Multiscale Machine Learning In Coupled Earth System Modeling (M²LInES)](https://m2lines.github.io/), I worked on a data-driven approach to improve the unresolved physics associated with $\mathcal{O}$(1 km) ocean submesoscale turbulence in climate models, which plays an important role in ocean-atmosphere interactions, yet is unresolved in climate models, even at the highest possible resolution.
 
