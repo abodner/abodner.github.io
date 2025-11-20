@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+This website is no longer being updated. Please refer to my group webpage to learn more about what we are working on: https://multiscalemariners.com/
+
+
 Hello! I am an Assistant Professor in the Massachusetts Institute of Technology, where I hold a shared position between the Departments of [Earth, Atmospheric, and Planetary Sciences (EAPS)](https://eapsweb.mit.edu/), and [Electrical Engineering and Computer Science (EECS)](https://www.eecs.mit.edu/). My research interests span climate, physical oceanography, geophysical fluid dynamics, and turbulence. I investigate turbulence in the upper ocean from O(100 km) to O(1 m) using a combination of theory, high-resolution numerical simulations, climate models, and machine learning. I also have a growing interest in coastal sea level drivers. 
 
 Previous to MIT, I was a [Simons Society Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/) working with [Dr. Laure Zanna](https://laurezanna.github.io/) at the [Courant Institute](https://caos.cims.nyu.edu/dynamic/) of Mathematical Sciences,  New York University. As an affiliate in the [Multiscale Machine Learning In Coupled Earth System Modeling (M²LInES)](https://m2lines.github.io/), I worked on a data-driven approach to improve the unresolved physics associated with $\mathcal{O}$(1 km) ocean submesoscale turbulence in climate models, which plays an important role in ocean-atmosphere interactions, yet is unresolved in climate models, even at the highest possible resolution.
@@ -19,7 +22,7 @@ I am fascinated by the way mathematics can describe fluid motion, and during my 
 I am passionate about teaching, and am especially motivated to teach computational tools for climate science. I believe it is critical that the future generation of scientists are properly trained to use the wealth of climate data and tools available on open-source platforms. I have co-founded [Climatematch Academy](https://academy.climatematch.io/), an online program with a mission to build a global and diverse climate science community, equipped with computational tools to tackle global challenges of our changing climate. 
 
 
-I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to Micah and Amelia who inspire and challenge me to be the best version of myself every day.
+I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to Micah, Amelia, and Imrie who inspire and challenge me to be the best version of myself every day.
   
   
 
@@ -28,4 +31,3 @@ I am married to [Bar Guzi](https://brandeis.academia.edu/BarGuzi) and mother to 
 <br/><img src='/images/micah_beach.jpeg'>
 </p>
   
-This webpage is still under construction. Check out my [CV](/files/AbigailBodner_CV_July2022.pdf) to see what else I have been up to.  
