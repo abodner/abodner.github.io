@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This website is no longer being updated. Please refer to my group webpage to learn more about what we are working on: [https://multiscalemariners.com/](https://multiscalemariners.com/)
+This website is no longer being updated. Please refer to my group webpage to learn more about what we are working on: [https://multiscalemariners.com](https://multiscalemariners.com/)
 
 
 Hello! I am an Assistant Professor in the Massachusetts Institute of Technology, where I hold a shared position between the Departments of [Earth, Atmospheric, and Planetary Sciences (EAPS)](https://eapsweb.mit.edu/), and [Electrical Engineering and Computer Science (EECS)](https://www.eecs.mit.edu/). My research interests span climate, physical oceanography, geophysical fluid dynamics, and turbulence. I investigate turbulence in the upper ocean from O(100 km) to O(1 m) using a combination of theory, high-resolution numerical simulations, climate models, and machine learning. I also have a growing interest in coastal sea level drivers. 
